@@ -2,11 +2,11 @@
 
 Private Repository for HW assignments of Stat 133 (Spring 2019)
 
-- Name: Your name (first last)
-- Github username: usrname
-- Email: address [at] email.com
-- Lab section: 101
-- GSI: Leia Organa
+- Name: Your name (Jian Liu)
+- Github username: ljivan
+- Email: address j7@berkeley.edu
+- Lab section: 111
+- GSI: Yulun Wu
 
 -----
 
