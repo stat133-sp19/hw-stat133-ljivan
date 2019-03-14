@@ -1,0 +1,28 @@
+             name       team_name          game_date             season    
+ Andre Iguodala: 371   Length:4334        Length:4334        Min.   :2016  
+ Draymond Green: 578   Class :character   Class :character   1st Qu.:2016  
+ Kevin Durant  : 915   Mode  :character   Mode  :character   Median :2016  
+ Klay Thompson :1220                                         Mean   :2016  
+ Stephen Curry :1250                                         3rd Qu.:2016  
+                                                             Max.   :2016  
+     period      minutes_remaining seconds_remaining shot_made_flag    
+ Min.   :1.000   Min.   : 0.000    Min.   : 0.00     Length:4334       
+ 1st Qu.:1.000   1st Qu.: 2.000    1st Qu.:13.00     Class :character  
+ Median :2.000   Median : 5.000    Median :29.00     Mode  :character  
+ Mean   :2.351   Mean   : 5.412    Mean   :28.60                       
+ 3rd Qu.:3.000   3rd Qu.: 8.000    3rd Qu.:43.75                       
+ Max.   :4.000   Max.   :11.000    Max.   :59.00                       
+ action_type         shot_type         shot_distance     opponent        
+ Length:4334        Length:4334        Min.   : 0.00   Length:4334       
+ Class :character   Class :character   1st Qu.: 2.25   Class :character  
+ Mode  :character   Mode  :character   Median :19.00   Mode  :character  
+                                       Mean   :15.58                     
+                                       3rd Qu.:25.00                     
+                                       Max.   :71.00                     
+       x                  y             minute    
+ Min.   :-248.000   Min.   :-39.0   Min.   : 1.0  
+ 1st Qu.: -56.000   1st Qu.: 13.0   1st Qu.:11.0  
+ Median :   1.000   Median : 95.0   Median :23.0  
+ Mean   :   7.746   Mean   :109.4   Mean   :22.8  
+ 3rd Qu.:  95.500   3rd Qu.:198.0   3rd Qu.:33.0  
+ Max.   : 246.000   Max.   :717.0   Max.   :48.0  
